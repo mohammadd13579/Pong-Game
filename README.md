@@ -6,6 +6,6 @@ The speed of the ball increases after hitting the paddles, and the game ends aft
 
 All the modules used in this program are:
 
--turtle
+- turtle
 
--time
+- time
